@@ -106,6 +106,6 @@
 
 <br clear="both">
 
-<h2 align="center">Happy Coding!  👨🏻‍💻</h2>
+<h3 align="center">Happy Coding!  👨🏻‍💻</h3>
 
 ###
