@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgpvc.arturio.dev%2FBaltasisKos%3Fstyle%3Dflat-square%26label%3DVIEWS%26color%3D0e75b6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?user=BaltasisKos&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square&logo=github" alt="BaltasisKos" />
 </p>
 
 ###
