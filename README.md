@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?user=BaltasisKos&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="BaltasisKos" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaltasisKos&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE%20VIEWS&edge_flat=true" alt="Views" />
 </p>
 
 ###
@@ -111,7 +111,3 @@
 <br clear="both">
 
 <h2 align="center">Happy Coding!  👨🏻‍💻</h2>
-
-
-
-###
