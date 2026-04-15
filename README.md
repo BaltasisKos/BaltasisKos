@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I am a graduate of the <b>Athens University of Economics and Business (AUEB)</b>, where I completed the <b>Coding Factory</b> certificate series. This intensive program provided me with a rigorous foundation in software development and modern programming practices, backed by the academic excellence of one of Greece’s leading institutions.</p>>
+<p align="left">I am a graduate of the <b>Athens University of Economics and Business (AUEB)</b>, where I completed the <b>Coding Factory</b> certificate series. This intensive program provided me with a rigorous foundation in software development and modern programming practices, backed by the academic excellence of one of Greece’s leading institutions.</p>
 
 <p align="left">✨I am passionate about building applications.<br>📚 Continuously learning new frameworks, tools, and best practices.<br>❤️ I love solving problems and finding creative solutions.</p>
 
