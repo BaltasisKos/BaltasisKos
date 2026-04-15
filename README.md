@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
 <p align="center">
-  <img src="https://vcount.vercel.app/get/@BaltasisKos?style=flat-square&color=0e75b6&label=VISITORS" alt="Visitor Count" />
+  ![](https://komarev.com/ghpvc/?BaltasisKos/BaltasisKos)
 </p>
 
 ###
