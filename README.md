@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaltasisKos&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE%20VIEWS&edge_flat=true" alt="Views" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgpvc.arturio.dev%2FBaltasisKos%3Fstyle%3Dflat-square%26label%3DVIEWS%26color%3D0e75b6" alt="Profile Views" />
 </p>
 
 ###
