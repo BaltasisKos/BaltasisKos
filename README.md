@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?user=BaltasisKos&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square&cache_id=12345" alt="BaltasisKos" />
+  <img src="https://komarev.com/ghpvc/?user=BaltasisKos&label=VISITORS&color=0e75b6&style=flat-square&v=new" alt="BaltasisKos" />
 </p>
 
 ###
