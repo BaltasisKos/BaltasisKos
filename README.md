@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?user=BaltasisKos&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square&logo=github" alt="BaltasisKos" />
+  <img src="https://display-count.vercel.app/api/count/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaltasisKos&style=flat-square&color=0e75b6&label=PROFILE%20VIEWS" alt="Profile Views" />
 </p>
 
 ###
