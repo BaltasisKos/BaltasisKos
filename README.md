@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
 <p align="center">
-  <img src="https://display-count.vercel.app/api/count/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaltasisKos&style=flat-square&color=0e75b6&label=PROFILE%20VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=0e75b6&label=PROFILE%20VIEWS&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FBaltasisKos-profile%2Fvisits&style=flat-square&logo=github" alt="Profile Views" />
 </p>
 
 ###
